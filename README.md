@@ -1,4 +1,4 @@
-<h1 align="center"><b>#boraCodar</b> {nome do desafio} </h1>
+<h1 align="center"><b>#boraCodar</b> um calculadora </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,15 +21,16 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Tecnologia
+- React
+- TailwindCSS
 
 ## 💻 Projeto
 
-{Descrição}
+O desafio "calculadora" é o quinto projeto da série de desafios #boraCodar da Rocketseat!
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](link). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1202607074523509182). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## 📝 Licença
 

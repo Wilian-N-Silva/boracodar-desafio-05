@@ -2,8 +2,9 @@
   "recommendations": [
     "PKief.material-icon-theme",
     "esbenp.prettier-vscode",
-    "ritwickdey.LiveServer",
     "vivaxy.vscode-conventional-commits",
+    "bradlc.vscode-tailwindcss",
+    "csstools.postcss",
     "GitHub.github-vscode-theme",
   ]
 }

@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient-button {
+	background: linear-gradient(
+			180deg,
+			rgba(0, 0, 0, 0.05) 0%,
+			rgba(255, 255, 255, 0.05) 100%
+		),
+		#2d2a37;
+}
+.gradient-button-function {
+	background: linear-gradient(
+			180deg,
+			rgba(0, 0, 0, 0.05) 0.01%,
+			rgba(255, 255, 255, 0.05) 100%
+		),
+		#462878;
+}
+.gradient-button-result {
+	background: linear-gradient(
+			180deg,
+			rgba(0, 0, 0, 0.15) 0%,
+			rgba(255, 255, 255, 0.05) 100%
+		),
+		#7f45e2;
+}
